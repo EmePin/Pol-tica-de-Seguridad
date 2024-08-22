@@ -1,5 +1,5 @@
 
-# Política de Seguridad de la Aplicación Zapoteco
+# Política de Seguridad de la Aplicación
 
 ## 1. Introducción
 Esta política de seguridad describe las medidas y prácticas que se siguen para proteger la información de los usuarios y garantizar la seguridad de la aplicación de Zapoteco. La prioridad es proteger los datos personales, la privacidad y la integridad de la aplicación.
